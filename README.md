@@ -8,6 +8,7 @@
 
 login :   "email": "eve.holt@reqres.in",
           "password": "cityslicka"
+          
 register:   "email": "eve.holt@reqres.in",
             "password": "pistol" 
             
