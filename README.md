@@ -1,16 +1,14 @@
-# nftdua
 
-A new Flutter project.
 
-## Getting Started
+#uts_pemogramman mobile_nftdua
 
-This project is a starting point for a Flutter application.
+#figma https://www.figma.com/file/QnQjgOgmr70yuIuJuU31I1/NFT-Market-(Community)?type=design&node-id=1%3A512&mode=design&t=GFOj2TS3IDxTmFS6-1
 
-A few resources to get you started if this is your first Flutter project:
+#api reqres.in
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+login :   "email": "eve.holt@reqres.in",
+          "password": "cityslicka"
+register:   "email": "eve.holt@reqres.in",
+            "password": "pistol" 
+            
+Nama : reza kamaluddin Nim : 211240001179 Mata Kuliah : pemograman Mobile
